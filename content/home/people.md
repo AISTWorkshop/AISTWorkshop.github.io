@@ -26,6 +26,9 @@ subtitle = ""
 
   # Show user's interests? (true/false)
   show_interests = true
+  
+  # Show user's topics? (true/false)
+  show_topics = true
 
 [design.background]
   # Apply a background color, gradient, or image.

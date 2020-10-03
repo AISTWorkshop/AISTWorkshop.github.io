@@ -16,9 +16,9 @@ author = "admin"
  - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal (Chair)
 
 ## Program Committee
+ - [Rui Abreu](https://ruimaranhao.com/), Universidade do Porto, Portugal
  - [João F. Ferreira](https://joaoff.com/), Universidade de Lisboa, Portugal
  - [Sérgio Guerreiro](https://fenix.tecnico.ulisboa.pt/homepage/ist62654), Universidade de Lisboa, Portugal
- - [Rui Abreu](https://ruimaranhao.com/), Universidade do Porto, Portugal
  - Ia Mosashvili, Georgian Technical University, Georgia
  - [Pengyu Nie](https://cozy.ece.utexas.edu/~pynie/), The University of Texas at Austin, USA
  - [Sofia Ouhbi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=sofia.ouhbi@uaeu.ac.ae), United Arab Emirates University, UAE

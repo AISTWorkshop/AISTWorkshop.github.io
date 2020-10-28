@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-## 1st International Workshop on Artificial Intelligence in Software Engineering
+## 1st International Workshop on Artificial Intelligence in Software Testing
 **Co-located with [ICST 2021](https://icst2021.icmc.usp.br/)**
 
 ### AIST will be virtual

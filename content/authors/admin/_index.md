@@ -82,6 +82,8 @@ AIST will be held online. Details about the schedule and the platform will follo
  - **Notification of Acceptance:** 31 January 2021 <br />
  - **Camera-ready:** 20 February 2021 <br />
 
-#### Submission
-Details will follow soon.
+### Paper Submission
+Papers are to be submitted via Easychair in the following link:<br /> 
+https://easychair.org/conferences/?conf=aist21 <br />
+See [Call for Papers](/#cfp) for more details.
 

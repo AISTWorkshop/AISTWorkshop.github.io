@@ -17,7 +17,7 @@ Papers can be of one of the following types:
  - **Full-papers (max. 8 pages):** Papers presenting mature research results or industrial practices.
  - **Short-papers (max. 4 pages):** Papers presenting new ideas, preliminary results, position statements, and open challenges.
 
-Paper should be submitted via Easychair using the following link: <br /> 
+Papers must conform to the two-column [IEEE conference publication format](https://www.ieee.org/conferences/publishing/templates.html) and should be submitted via EasyChair using the following link: <br /> 
 https://easychair.org/conferences/?conf=aist21
 
 All submissions must be original, unpublished, and not submitted for publication elsewhere. For all accepted papers, at least one author must register in the workshop and present the paper. 

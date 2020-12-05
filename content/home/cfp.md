@@ -11,7 +11,16 @@ title = "Call for Papers"
 author = "admin"
 +++
 
-We invite novel papers from academia and industry on AI applied to software testing. 
+
+We invite novel papers from academia and industry on AI applied to software testing that cover, but are not limited to, the following aspects:
+
+ - AI for test case design, test generation, test prioritization, and test reduction.
+ - AI for load testing and performance testing.
+ - AI for monitoring running systems or optimizing those systems.
+ - Explainable AI for software testing.
+ - Case studies, experience reports, benchmarking, and best practices.
+ - New ideas, emerging results, and position papers.
+ - Industrial case studies with lessons learned or practical guidelines.
 
 Papers can be of one of the following types:
  - **Full-papers (max. 8 pages):** Papers presenting mature research results or industrial practices.

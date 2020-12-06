@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: April, 2021
+role: 12th April, 2021
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,8 @@ user_groups:
 **Co-located with [ICST 2021](https://icst2021.icmc.usp.br/)**
 
 ### AIST will be virtual
-AIST will be held online. Details about the schedule and the platform will follow.
+AIST will be held online on the **12th of April, 2021**. </br> 
+Details about the schedule and the platform will follow.
 
 ### Important Dates
 

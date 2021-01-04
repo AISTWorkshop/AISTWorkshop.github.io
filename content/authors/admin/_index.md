@@ -79,8 +79,8 @@ Details about the schedule and the platform will follow.
 
 ### Important Dates
 
- - **Submission deadline:** 10 January 2021 <br />
- - **Notification of Acceptance:** 31 January 2021 <br />
+ - **Submission deadline:** 20 January 2021  AoE <br />
+ - **Notification of Acceptance:** 09 February 2021 <br />
  - **Camera-ready:** 20 February 2021 <br />
 
 ### Paper Submission

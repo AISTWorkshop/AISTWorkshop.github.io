@@ -22,7 +22,6 @@ author = "admin"
  - Ia Mosashvili, Georgian Technical University, Georgia
  - [Pengyu Nie](https://cozy.ece.utexas.edu/~pynie/), The University of Texas at Austin, USA
  - [Sofia Ouhbi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=sofia.ouhbi@uaeu.ac.ae), United Arab Emirates University, UAE
- - [Sandeep Pirbhulal](https://www.ntnu.edu/employees/sandeep.pirbhulal), Norwegian University of Science and Technology, Norway
  - [Roni Stern](https://ronistern.wixsite.com/home), Ben-Gurion University of the Negev, Israel
  - [Franz Wotawa](http://www.ist.tugraz.at/franz_wotawa/), Graz University of Technology, Austria
 

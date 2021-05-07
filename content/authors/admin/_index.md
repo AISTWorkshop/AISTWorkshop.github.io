@@ -75,7 +75,7 @@ user_groups:
 
 ### AIST will be virtual
 AIST will be held online on the **12th of April, 2021**. </br> 
-Details about the schedule and the platform will follow.
+The program can be found [here](https://icst2021.icmc.usp.br/home/aist-2021#program).
 
 ### Important Dates
 

@@ -11,8 +11,9 @@ title = "Important Dates"
 author = "admin"
 +++
 
- - **Submission deadline:** 20 January 2021 AoE <br />
- - **Notification of Acceptance:** 09 February 2021 <br />
- - **Camera-ready:** 20 February 2021 <br />
+ - **Abstract Submission:** 13 January 2022 AoE <br />
+ - **Submission deadline:** 20 January 2022 AoE <br />
+ - **Notification of Acceptance:** 17 February 2022 <br />
+ - **Camera-ready:** 24 February 2022 <br />
 
 

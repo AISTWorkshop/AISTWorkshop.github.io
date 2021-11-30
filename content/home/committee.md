@@ -17,12 +17,15 @@ author = "admin"
 
 ## Program Committee
  - [Rui Abreu](https://ruimaranhao.com/), Universidade do Porto, Portugal
+ - [Aldeida Aleti](https://users.monash.edu.au/~aldeidaa/), Monash University, Australia
+ - [Daniela Cruzes](https://www.ntnu.edu/employees/daniela.s.cruzes), Norwegian University of Science and Technology, Norway
  - [João F. Ferreira](https://joaoff.com/), Universidade de Lisboa, Portugal
+ - [Gregory Gay](https://greg4cr.github.io/), Chalmers and the University of Gothenburg, Sweden
  - [Sérgio Guerreiro](https://fenix.tecnico.ulisboa.pt/homepage/ist62654), Universidade de Lisboa, Portugal
- - Ia Mosashvili, Georgian Technical University, Georgia
- - [Pengyu Nie](https://cozy.ece.utexas.edu/~pynie/), The University of Texas at Austin, USA
- - [Sofia Ouhbi](https://cit.uaeu.ac.ae/en/departments/csse/profile.shtml?email=sofia.ouhbi@uaeu.ac.ae), United Arab Emirates University, UAE
+ - [Wolfgang Mayer](https://people.unisa.edu.au/wolfgang.mayer), University of South Australia, Australia
+ - Mihai Nica, AVL List GmbH, Austria
+ - [Wishnu Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, The Netherlands
+ - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
  - [Roni Stern](https://ronistern.wixsite.com/home), Ben-Gurion University of the Negev, Israel
  - [Franz Wotawa](http://www.ist.tugraz.at/franz_wotawa/), Graz University of Technology, Austria
-
 

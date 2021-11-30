@@ -1,6 +1,6 @@
 ---
 # Display name
-title: AIST 2021
+title: AIST 2022
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 12th April, 2021
+role: 4th April, 2022
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: AIST 2021
+bio: AIST 2022
 
 topics:
 - Artificial Intelligence
@@ -70,21 +70,21 @@ user_groups:
 - Visitors
 ---
 
-## 1st International Workshop on Artificial Intelligence in Software Testing
-**Co-located with [ICST 2021](https://icst2021.icmc.usp.br/)**
+## 2nd International Workshop on Artificial Intelligence in Software Testing
+**Co-located with [ICST 2022](https://icst2022.vrain.upv.es/)**
 
 ### AIST will be virtual
-AIST will be held online on the **12th of April, 2021**. </br> 
-The program can be found [here](https://icst2021.icmc.usp.br/home/aist-2021#program).
+AIST will be held online on the **4th of April, 2022**. </br> 
 
 ### Important Dates
 
- - **Submission deadline:** 20 January 2021  AoE <br />
- - **Notification of Acceptance:** 09 February 2021 <br />
- - **Camera-ready:** 20 February 2021 <br />
+ - **Abstract Submission:** 13 January 2022  AoE <br />
+ - **Submission deadline:** 20 January 2022  AoE <br />
+ - **Notification of Acceptance:** 17 February 2022 <br />
+ - **Camera-ready:** 24 February 2022 <br />
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 
-https://easychair.org/conferences/?conf=aist21 <br />
+https://easychair.org/conferences/?conf=aist22 <br />
 See [Call for Papers](/#cfp) for more details.
 

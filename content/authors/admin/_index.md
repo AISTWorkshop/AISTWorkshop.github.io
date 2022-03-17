@@ -75,13 +75,11 @@ user_groups:
 
 ### AIST will be virtual
 AIST will be held online on the **4th of April, 2022**. </br> 
-
+**The program can be found [here](https://icst2022.vrain.upv.es/home/aist-2022#program).**
 ### Important Dates
 
- - ~~**Abstract Submission:** 13 January 2022  AoE~~ <br />
- - <span style="color:red">**Abstract Submission:** 20 January 2022  AoE </span><br />
- - ~~**Submission deadline:** 20 January 2022  AoE~~ <br />
- - <span style="color:red">**Submission deadline:** 27 January 2022  AoE </span><br />
+ - **Abstract Submission:** 20 January 2022  AoE </span><br />
+ - **Submission deadline:** 27 January 2022  AoE <br />
  - **Notification of Acceptance:** 17 February 2022 <br />
  - **Camera-ready:** 24 February 2022 <br />
 

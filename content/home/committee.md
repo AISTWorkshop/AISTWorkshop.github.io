@@ -12,8 +12,7 @@ author = "admin"
 +++
 
 ## Organizing Committee
- - [Alexandra Mendes](https://archimendes.com/), Universidade da Beira Interior, Portugal (Chair)
- - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal (Chair)
+ - [Alexandra Mendes](https://archimendes.com/), INESC TEC & Faculdade de Engenharia, Universidade do Porto, Portugal (Chair)
 
 ## Program Committee
  - [Rui Abreu](https://ruimaranhao.com/), Universidade do Porto, Portugal
@@ -24,6 +23,7 @@ author = "admin"
  - [Sérgio Guerreiro](https://fenix.tecnico.ulisboa.pt/homepage/ist62654), Universidade de Lisboa, Portugal
  - [Wolfgang Mayer](https://people.unisa.edu.au/wolfgang.mayer), University of South Australia, Australia
  - Mihai Nica, AVL List GmbH, Austria
+ - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal (Chair)
  - [Wishnu Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, The Netherlands
  - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
  - [Roni Stern](https://ronistern.wixsite.com/home), Ben-Gurion University of the Negev, Israel

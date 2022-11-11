@@ -11,5 +11,6 @@ title = "Previous Editions"
 author = "admin"
 +++
 
+ - [AIST 2022](https://aistworkshop.github.io/2022/), co-located with [ICST 2022](https://icst2022.vrain.upv.es/)
  - [AIST 2021](https://aistworkshop.github.io/2021/), co-located with [ICST 2021](https://icst2021.icmc.usp.br/)
 

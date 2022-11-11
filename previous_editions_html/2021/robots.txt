@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: /2021/sitemap.xml

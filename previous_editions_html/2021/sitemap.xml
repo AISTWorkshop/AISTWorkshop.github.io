@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/2021/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/author/aist-2021/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/2021/tags/</loc>
+  </url>
+  
+</urlset>

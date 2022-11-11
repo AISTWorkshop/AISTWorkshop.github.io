@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIST 2021</title>
+    <link>/2021/author/aist-2021/</link>
+      <atom:link href="/2021/author/aist-2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>AIST 2021</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/2021/author/aist-2021/avatar_huea0dc8a84fa9e4500120fd0f7b25845b_10082_270x270_fill_lanczos_center_2.png</url>
+      <title>AIST 2021</title>
+      <link>/2021/author/aist-2021/</link>
+    </image>
+    
+  </channel>
+</rss>

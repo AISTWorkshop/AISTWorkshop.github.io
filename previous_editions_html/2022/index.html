@@ -1,0 +1,1543 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="AIST 2022">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="4th April, 2022">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://aistworkshop.github.io/2022/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/2022/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/2022/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179716910-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-179716910-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+  <link rel="alternate" href="/2022/index.xml" type="application/rss+xml" title="AIST 2022">
+  
+
+  <link rel="manifest" href="/2022/index.webmanifest">
+  <link rel="icon" type="image/png" href="/2022/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/2022/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://aistworkshop.github.io/2022/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@AISTWorkshop">
+  <meta property="twitter:creator" content="@AISTWorkshop">
+  
+  <meta property="og:site_name" content="AIST 2022">
+  <meta property="og:url" content="https://aistworkshop.github.io/2022/">
+  <meta property="og:title" content="AIST 2022">
+  <meta property="og:description" content="4th April, 2022"><meta property="og:image" content="https://aistworkshop.github.io/2022/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://aistworkshop.github.io/2022/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://aistworkshop.github.io/2022/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://aistworkshop.github.io/2022/"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>AIST 2022</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class=" ">
+
+  
+  
+  
+    <script>window.staDarkLightChooser = true;</script>
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/2022/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">AIST 2022</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">AIST 2022</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#description"><span>Theme and Goals</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#cfp"><span>Call for Papers</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#dates"><span>Important Dates</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#committee"><span>Organization</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/2022/#previous"><span>Previous Editions</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      <img style="margin-left: auto; margin-right: auto" src="/2022/author/aist-2022/avatar.png" alt="AIST logo">
+      <h3>4th April, 2022</h3>
+      
+
+<div style="padding-top: 1em">
+<a class="twitter-timeline" data-height="440" data-width="220" data-theme="light" href="https://twitter.com/AISTWorkshop?ref_src=twsrc%5Etfw">Tweets by AISTWorkshop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>AIST 2022</h1>
+
+    <h2 id="2nd-international-workshop-on-artificial-intelligence-in-software-testing">2nd International Workshop on Artificial Intelligence in Software Testing</h2>
+<p><strong>Co-located with 
+<a href="https://icst2022.vrain.upv.es/" target="_blank" rel="noopener">ICST 2022</a></strong></p>
+<h3 id="aist-will-be-virtual">AIST will be virtual</h3>
+<p>AIST will be held online on the <strong>4th of April, 2022</strong>. </br>
+<strong>The program can be found 
+<a href="https://icst2022.vrain.upv.es/home/aist-2022#program" target="_blank" rel="noopener">here</a>.</strong></p>
+<h3 id="important-dates">Important Dates</h3>
+<ul>
+<li><strong>Abstract Submission:</strong> 20 January 2022  AoE </span><br /></li>
+<li><strong>Submission deadline:</strong> 27 January 2022  AoE <br /></li>
+<li><strong>Notification of Acceptance:</strong> 17 February 2022 <br /></li>
+<li><strong>Camera-ready:</strong> 24 February 2022 <br /></li>
+</ul>
+<h3 id="paper-submission">Paper Submission</h3>
+<p>Papers are to be submitted via EasyChair in the following link:<br />
+
+<a href="https://easychair.org/conferences/?conf=aist22" target="_blank" rel="noopener">https://easychair.org/conferences/?conf=aist22</a> <br />
+See 
+<a href="/#cfp">Call for Papers</a> for more details.</p>
+
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="description" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Theme and Goals</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>The application of AI techniques in software testing is in its early stages. In the last few years, software industry and practitioners increasingly adopted novel techniques to ease the software development cycle, namely the testing phase, by means of autonomous testing and/or optimization of repetitive and tedious activities.</p>
+<p>AI can transform software testing by supporting more efficient tests and increased automation, which ultimately leads to a reduction in testing costs and in the production of improved software. The AIST workshop aims to gather researchers and industry practitioners to present, discuss, and foster collaboration on novel and up-to-date R&amp;D focused on the application of AI in software testing coined by the multiplicity of perspectives and different topics observed under the AI umbrella.</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="cfp" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Call for Papers</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p>We invite novel papers from academia and industry on AI applied to software testing that cover, but are not limited to, the following aspects:</p>
+<ul>
+<li>AI for test case design, test generation, test prioritization, and test reduction.</li>
+<li>AI for load testing and performance testing.</li>
+<li>AI for monitoring running systems or optimizing those systems.</li>
+<li>Explainable AI for software testing.</li>
+<li>Case studies, experience reports, benchmarking, and best practices.</li>
+<li>New ideas, emerging results, and position papers.</li>
+<li>Industrial case studies with lessons learned or practical guidelines.</li>
+</ul>
+<p>Papers can be of one of the following types:</p>
+<ul>
+<li><strong>Full-papers (max. 8 pages):</strong> Papers presenting mature research results or industrial practices.</li>
+<li><strong>Short-papers (max. 4 pages):</strong> Papers presenting new ideas, preliminary results, position statements, and open challenges.</li>
+</ul>
+<p>The reviewing process is single blind. Papers must conform to the two-column 
+<a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank" rel="noopener">IEEE conference publication format</a> and should be submitted via EasyChair using the following link: <br />
+
+<a href="https://easychair.org/conferences/?conf=aist22" target="_blank" rel="noopener">https://easychair.org/conferences/?conf=aist22</a></p>
+<p>All submissions must be original, unpublished, and not submitted for publication elsewhere. For all accepted papers, at least one author must register in the workshop and present the paper.</p>
+<p>Papers presented at AIST will be published through the IEEE digital library.</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="dates" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Important Dates</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <ul>
+<li><del><strong>Abstract Submission:</strong> 13 January 2022 AoE</del> <br /></li>
+<li><span style="color:red"><strong>Abstract Submission:</strong> 20 January 2022 AoE </span><br /></li>
+<li><del><strong>Submission deadline:</strong> 20 January 2022 AoE</del> <br /></li>
+<li><span style="color:red"><strong>Submission deadline:</strong> 27 January 2022 AoE </span><br /></li>
+<li><strong>Notification of Acceptance:</strong> 17 February 2022 <br /></li>
+<li><strong>Camera-ready:</strong> 24 February 2022 <br /></li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="committee" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Organization</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <h2 id="organizing-committee">Organizing Committee</h2>
+<ul>
+<li>
+<a href="https://archimendes.com/" target="_blank" rel="noopener">Alexandra Mendes</a>, INESC TEC &amp; Faculdade de Engenharia, Universidade do Porto, Portugal (Chair)</li>
+</ul>
+<h2 id="program-committee">Program Committee</h2>
+<ul>
+<li>
+<a href="https://ruimaranhao.com/" target="_blank" rel="noopener">Rui Abreu</a>, Universidade do Porto, Portugal</li>
+<li>
+<a href="https://users.monash.edu.au/~aldeidaa/" target="_blank" rel="noopener">Aldeida Aleti</a>, Monash University, Australia</li>
+<li>
+<a href="https://www.ntnu.edu/employees/daniela.s.cruzes" target="_blank" rel="noopener">Daniela Cruzes</a>, Norwegian University of Science and Technology, Norway</li>
+<li>
+<a href="https://joaoff.com/" target="_blank" rel="noopener">João F. Ferreira</a>, Universidade de Lisboa, Portugal</li>
+<li>
+<a href="https://greg4cr.github.io/" target="_blank" rel="noopener">Gregory Gay</a>, Chalmers and the University of Gothenburg, Sweden</li>
+<li>
+<a href="https://fenix.tecnico.ulisboa.pt/homepage/ist62654" target="_blank" rel="noopener">Sérgio Guerreiro</a>, Universidade de Lisboa, Portugal</li>
+<li>
+<a href="https://people.unisa.edu.au/wolfgang.mayer" target="_blank" rel="noopener">Wolfgang Mayer</a>, University of South Australia, Australia</li>
+<li>Mihai Nica, AVL List GmbH, Austria</li>
+<li>
+<a href="https://www.di.ubi.pt/~ngpombo/" target="_blank" rel="noopener">Nuno Pombo</a>, Universidade da Beira Interior, Portugal (Chair)</li>
+<li>
+<a href="https://www.uu.nl/staff/SWBPrasetya" target="_blank" rel="noopener">Wishnu Prasetya</a>, Utrecht University, The Netherlands</li>
+<li>
+<a href="https://hspieker.de/" target="_blank" rel="noopener">Helge Spieker</a>, Simula Research Laboratory, Norway</li>
+<li>
+<a href="https://ronistern.wixsite.com/home" target="_blank" rel="noopener">Roni Stern</a>, Ben-Gurion University of the Negev, Israel</li>
+<li>
+<a href="http://www.ist.tugraz.at/franz_wotawa/" target="_blank" rel="noopener">Franz Wotawa</a>, Graz University of Technology, Austria</li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="previous" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Previous Editions</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <ul>
+<li>
+<a href="https://aistworkshop.github.io/2021/" target="_blank" rel="noopener">AIST 2021</a>, co-located with 
+<a href="https://icst2021.icmc.usp.br/" target="_blank" rel="noopener">ICST 2021</a></li>
+</ul>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul">
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email">
+	Get in touch with the workshop chair: <br />  <a href="mailto:alexandra@archimendes.com">Alexandra Mendes</a> 
+        </span>
+      </li>
+      
+
+
+
+
+      
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href="https://twitter.com/AISTWorkshop" target="_blank" rel="noopener">Twitter</a>
+      </li>
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="sha512-7t8APmYpzEsZP7CYoA7RfMPV9Bb+PJHa9x2WiUnDXZx3XHveuyWUtvNOexhkierl5flZ3tr92dP1mMS+SGlD+A==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/2022/js/academic.min.4182b289689108d47721d002a07cd804.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

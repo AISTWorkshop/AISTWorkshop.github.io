@@ -12,9 +12,8 @@ author = "admin"
 +++
 
 
-The application of AI techniques in software testing is in its early stages. In the last few years, software industry and practitioners increasingly adopted novel techniques to ease the software development cycle, namely the testing phase, by means of autonomous testing and/or optimization of repetitive and tedious activities.
+The application of AI techniques in software testing is in its early stages. In the last few years, software developers have increasingly adopted novel techniques to ease the development cycle, namely the testing phase, by means of autonomous testing and/or optimization of repetitive and tedious activities.
 
-AI can transform software testing by supporting more efficient tests and increased automation, which ultimately leads to a reduction in testing costs and in the production of improved software. The AIST workshop aims to gather researchers and industry practitioners to present, discuss, and foster collaboration on novel and up-to-date R&D focused on the application of AI in software testing coined by the multiplicity of perspectives and different topics observed under the AI umbrella.
-
+AI can transform software testing by supporting efficient testing activities and increasing automation, which ultimately leads to a reduction in testing costs and improvements in software quality. The AIST workshop aims to gather researchers and practitioners to present, discuss, and foster collaboration on novel and up-to-date R&D focused on the application of AI in software testing, with an inclusive view of the many perspectives and topics under the AI umbrella.
 
 

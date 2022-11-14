@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "AIST 2022"
+title = "AIST 2023"
 #title = "Biography"
 
 # Choose the user profile to display

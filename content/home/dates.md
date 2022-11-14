@@ -11,11 +11,8 @@ title = "Important Dates"
 author = "admin"
 +++
 
- - ~~**Abstract Submission:** 13 January 2022 AoE~~ <br />
- - <span style="color:red">**Abstract Submission:** 20 January 2022 AoE </span><br />
- - ~~**Submission deadline:** 20 January 2022 AoE~~ <br />
- - <span style="color:red">**Submission deadline:** 27 January 2022 AoE </span><br />
- - **Notification of Acceptance:** 17 February 2022 <br />
- - **Camera-ready:** 24 February 2022 <br />
+ - **Submission deadline:** 20 January 2022 AoE 
+ - **Notification of Acceptance:** 3 February 2022
+ - **Camera-ready:** TBA 
 
 

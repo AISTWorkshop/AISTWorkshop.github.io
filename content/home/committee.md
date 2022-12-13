@@ -18,3 +18,7 @@ author = "admin"
 ## Program Committee
  - TBA
 
+## Steering Committee
+ - [Alexandra Mendes](https://archimendes.com), University of Porto and INESC TEC, Portugal
+ - [Tim Menzies](https://menzies.us/), North Carolina State University, USA
+ - [Franz Wotawa](http://www.ist.tugraz.at/staff/wotawa/), Graz University of Technology, Austria

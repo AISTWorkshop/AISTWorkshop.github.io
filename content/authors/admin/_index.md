@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: TBA April, 2023
+role: 20 April, 2023
 
 # Organizations/Affiliations
 organizations:
@@ -79,6 +79,7 @@ user_groups:
  - **Submission deadline:** 20 January 2023  AoE <br />
  - **Notification of Acceptance:** 3 February 2023 <br />
  - **Camera-ready:** TBA <br />
+ - **Workshop**: 20 April 2023 <br/>
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 

@@ -83,6 +83,6 @@ user_groups:
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 
-TBA <br />
+https://easychair.org/conferences/?conf=icstw23 <br />
 See [Call for Papers](/#cfp) for more details.
 

@@ -16,7 +16,10 @@ author = "admin"
  - [Gunel Jahangirova](https://sites.google.com/view/guneljahangirova), King's College London, UK (Co-Chair)
 
 ## Program Committee
- - TBA
+ - [Gordon Fraser](https://scholar.google.com/citations?user=PLpOpawAAAAJ), University of Passau, Germany
+ - [Alexandra Mendes](https://archimendes.com/), University of Porto, Portugal
+ - [Wishnu Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, Netherlands
+ - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
 
 ## Steering Committee
  - [Alexandra Mendes](https://archimendes.com), University of Porto and INESC TEC, Portugal

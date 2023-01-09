@@ -16,10 +16,14 @@ author = "admin"
  - [Gunel Jahangirova](https://sites.google.com/view/guneljahangirova), King's College London, UK (Co-Chair)
 
 ## Program Committee
+ - [Rui Abreu](https://ruimaranhao.com/), Meta Platforms and University of Porto/INESC-ID, Portugal
+ - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
  - [Gordon Fraser](https://scholar.google.com/citations?user=PLpOpawAAAAJ), University of Passau, Germany
  - [Alexandra Mendes](https://archimendes.com/), University of Porto, Portugal
+ - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal
  - [Wishnu Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, Netherlands
  - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
+ - [Franz Wotawa](http://www.ist.tugraz.at/staff/wotawa/), Graz University of Technology, Austria
 
 ## Steering Committee
  - [Alexandra Mendes](https://archimendes.com), University of Porto and INESC TEC, Portugal

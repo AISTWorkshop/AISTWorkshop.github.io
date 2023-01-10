@@ -17,6 +17,8 @@ author = "admin"
 
 ## Program Committee
  - [Rui Abreu](https://ruimaranhao.com/), Meta Platforms and University of Porto/INESC-ID, Portugal
+ - [Aldeida Aleta](https://research.monash.edu/en/persons/aldeida-aleti), Monash University, Australia 
+ - [Daniela S. Cruzes](https://www.ntnu.edu/employees/daniela.s.cruzes), Norwegian University of Science and Technology, Norway
  - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
  - [Gordon Fraser](https://scholar.google.com/citations?user=PLpOpawAAAAJ), University of Passau, Germany
  - [Alexandra Mendes](https://archimendes.com/), University of Porto, Portugal

@@ -76,8 +76,8 @@ user_groups:
 
 ### Important Dates
 
- - **Submission deadline:** 20 January 2023  AoE <br />
- - **Notification of Acceptance:** 3 February 2023 <br />
+ - **Submission deadline:** 27 January 2023  AoE <br />
+ - **Notification of Acceptance:** 10 February 2023 <br />
  - **Camera-ready:** TBA <br />
  - **Workshop**: 20 April 2023 <br/>
 

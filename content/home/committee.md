@@ -20,6 +20,7 @@ author = "admin"
  - [Aldeida Aleta](https://research.monash.edu/en/persons/aldeida-aleti), Monash University, Australia 
  - [Daniela S. Cruzes](https://www.ntnu.edu/employees/daniela.s.cruzes), Norwegian University of Science and Technology, Norway
  - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
+ - Afonso Fontes, Chalmers | University of Gothenburg, Sweden
  - [Gordon Fraser](https://scholar.google.com/citations?user=PLpOpawAAAAJ), University of Passau, Germany
  - [Alexandra Mendes](https://archimendes.com/), University of Porto, Portugal
  - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal

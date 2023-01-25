@@ -11,8 +11,8 @@ title = "Important Dates"
 author = "admin"
 +++
 
- - **Submission deadline:** 27 January 2022 AoE 
- - **Notification of Acceptance:** 10 February 2022
- - **Camera-ready:** TBA 
+ - **Submission deadline:** 27 January 2023 AoE 
+ - **Notification of Acceptance:** 15 February 2023
+ - **Camera-ready:** 3 March 2023
  - **Workshop:** April 20, 2023
 

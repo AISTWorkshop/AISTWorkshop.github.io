@@ -24,9 +24,9 @@ Sebastiano Panichella, TBD
 
 **14:00 - 15:30: Research Papers 2**
 
-- 14:00 - 14:30: Viraj Rohit Gala and Martin A. Schneider, Evaluating the Effectiveness of Attacks and Defenses on Machine Learning Through Adversarial Samples
-- 14:30 - 15:00: Frédéric Tamagnan, Fabrice Bouquet, Alexandre Vernotte and Bruno Legeard, Regression Test Generation by Usage Coverage Driven Clustering on User Traces
-- 15:00 - 15:20: Felix Dobslaw and Robert Feldt, Similarities of Testing Programmed and Learnt Software
+- 14:00 - 14:20: Felix Dobslaw and Robert Feldt, Similarities of Testing Programmed and Learnt Software
+- 14:20 - 14:50: Viraj Rohit Gala and Martin A. Schneider, Evaluating the Effectiveness of Attacks and Defenses on Machine Learning Through Adversarial Samples
+- 14:50 - 15:20: Frédéric Tamagnan, Fabrice Bouquet, Alexandre Vernotte and Bruno Legeard, Regression Test Generation by Usage Coverage Driven Clustering on User Traces
 
 **16:00 - 17:30: Discussion and Mind-Mapping**
 

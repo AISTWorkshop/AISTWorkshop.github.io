@@ -20,7 +20,7 @@ author = "admin"
 
 **11:00 - 12:30: Keynote**
 
-Sebastiano Panichella, TBD
+Sebastiano Panichella, Testing and Development Challenges for Complex Cyber-Physical Systems: Insights from the COSMOS H2020 Project
 
 **14:00 - 15:30: Research Papers 2**
 

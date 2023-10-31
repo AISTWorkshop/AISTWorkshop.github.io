@@ -14,18 +14,18 @@
   weight = 20
 
 [[main]]
-  name = "Program"
-  url = "#program"
+  name = "Call for Papers"
+  url = "#cfp"
   weight = 30
 
-[[main]]
-  name = "Keynote"
-  url = "#keynote"
-  weight = 40
+#[[main]]
+#  name = "Program"
+#  url = "#program"
+#  weight = 40
 
 #[[main]]
-#  name = "Call for Papers"
-#  url = "#cfp"
+#  name = "Keynote"
+#  url = "#keynote"
 #  weight = 50
 
 [[main]]

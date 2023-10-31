@@ -1,6 +1,6 @@
 ---
 # Display name
-title: AIST 2023
+title: AIST 2024
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 20 April, 2023
+role: 27 May, 2024
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: AIST 2023
+bio: AIST 2024
 
 topics:
 - Artificial Intelligence
@@ -70,19 +70,19 @@ user_groups:
 - Visitors
 ---
 
-## 3rd International Workshop on Artificial Intelligence in Software Testing
-**Dublin, Ireland**
-**Co-located with [ICST 2023](https://conf.researchr.org/home/icst-2023)**
+## 4th International Workshop on Artificial Intelligence in Software Testing
+**Toronto, Canada**
+**Co-located with [ICST 2024](https://conf.researchr.org/home/icst-2024)**
 
 ### Important Dates
 
- - **Submission deadline:** 27 January 2023  AoE <br />
- - **Notification of Acceptance:** 15 February 2023 <br />
- - **Camera-ready:** 3 March 2023 <br />
- - **Workshop**: 20 April 2023 <br/>
+ - **Submission deadline:** 29 January 2024  AoE <br />
+ - **Notification of Acceptance:** 26 February 2024 <br />
+ - **Camera-ready:** 1 March 2024 <br />
+ - **Workshop**: 27 May 2024 <br/>
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 
-https://easychair.org/conferences/?conf=icstw23 <br />
+**To Be Added** <br />
 See [Call for Papers](/#cfp) for more details.
 

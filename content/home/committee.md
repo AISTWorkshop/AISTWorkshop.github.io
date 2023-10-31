@@ -12,21 +12,12 @@ author = "admin"
 +++
 
 ## Organizing Committee
+ - [Aitor Arrieta](https://aitorarrietamarcos.github.io/), University of Mondragon, Spain (Co-Chair) 
  - [Gregory Gay](https://greggay.com/), Chalmers | University of Gothenburg, Sweden (Co-Chair)
- - [Gunel Jahangirova](https://sites.google.com/view/guneljahangirova), King's College London, UK (Co-Chair)
+ - [Sebatiano Panichella](https://spanichella.github.io/), Zurich University of Applied Science, Switzerland (Co-Chair)
 
 ## Program Committee
- - [Rui Abreu](https://ruimaranhao.com/), Meta Platforms and University of Porto/INESC-ID, Portugal
- - [Aldeida Aleta](https://research.monash.edu/en/persons/aldeida-aleti), Monash University, Australia 
- - [Daniela S. Cruzes](https://www.ntnu.edu/employees/daniela.s.cruzes), Norwegian University of Science and Technology, Norway
- - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
- - Afonso Fontes, Chalmers | University of Gothenburg, Sweden
- - [Gordon Fraser](https://scholar.google.com/citations?user=PLpOpawAAAAJ), University of Passau, Germany
- - [Alexandra Mendes](https://archimendes.com/), University of Porto, Portugal
- - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal
- - [Wishnu Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, Netherlands
- - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
- - [Franz Wotawa](http://www.ist.tugraz.at/staff/wotawa/), Graz University of Technology, Austria
+ - **To Be Added**
 
 ## Steering Committee
  - [Alexandra Mendes](https://archimendes.com), University of Porto and INESC TEC, Portugal

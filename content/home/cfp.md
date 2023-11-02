@@ -28,7 +28,7 @@ Papers can be of one of the following types:
 - Tool Papers (max. 4 pages): Papers presenting an AI-enabled testing tool. Tool papers should communicate the purpose and use cases for the tool. The tool should be made available (either free to download or for purchase).
 - Position Papers (max. 2 pages): Position statements and open challenges, intended to spark discussion or debate.
 
-The reviewing process is single blind. Therefore, papers do not need to be anonymized. Papers must conform to the two-column IEEE conference publication format and should be submitted via EasyChair using the following link: **To Be Added**
+The reviewing process is single blind. Therefore, papers do not need to be anonymized. Papers must conform to the two-column IEEE conference publication format and should be submitted via EasyChair using the following link: https://easychair.org/conferences/?conf=ieeeicst24workshops 
 
 All submissions must be original, unpublished, and not submitted for publication elsewhere. Submissions will be evaluated according to the relevance and originality of the work and on their ability to generate discussions between the participants of the workshop. Each submission will be reviewed by three reviewers, and all accepted papers will be published as part of the ICST proceedings. For all accepted papers, at least one author must register in the workshop and present the paper. 
 

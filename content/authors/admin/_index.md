@@ -83,6 +83,6 @@ user_groups:
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 
-**To Be Added** <br />
+https://easychair.org/conferences/?conf=ieeeicst24workshops <br />
 See [Call for Papers](/#cfp) for more details.
 

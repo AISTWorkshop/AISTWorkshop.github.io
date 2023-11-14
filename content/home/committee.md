@@ -14,7 +14,7 @@ author = "admin"
 ## Organizing Committee
  - [Aitor Arrieta](https://aitorarrietamarcos.github.io/), University of Mondragon, Spain (Co-Chair) 
  - [Gregory Gay](https://greggay.com/), Chalmers | University of Gothenburg, Sweden (Co-Chair)
- - [Sebatiano Panichella](https://spanichella.github.io/), Zurich University of Applied Science, Switzerland (Co-Chair)
+ - [Sebastiano Panichella](https://spanichella.github.io/), Zurich University of Applied Science, Switzerland (Co-Chair)
 
 ## Program Committee
  - **To Be Added**

@@ -17,7 +17,13 @@ author = "admin"
  - [Sebastiano Panichella](https://spanichella.github.io/), Zurich University of Applied Sciences, Switzerland (Co-Chair)
 
 ## Program Committee
- - **To Be Added**
+ - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
+ - [Alberto Martin-Lopez](https://personal.us.es/amarlop/), Università della Svizzera Italiana, Switzerland
+ - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal
+ - [I.S.W.B. (Wishnu) Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, Netherlands
+ - [Vincenzo Riccio](https://p1ndsvin.github.io/), Università di Udine, Italy
+ - [Helge Spieker](https://hspieker.de/), Simula Research Laboratory, Norway
+ - [Yu Zhou](https://csyuzhou.github.io/), Nanjing University of Aeronautics and Astronautics, China
 
 ## Steering Committee
  - [Alexandra Mendes](https://archimendes.com), University of Porto and INESC TEC, Portugal

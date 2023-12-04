@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 27 May, 2024
+role: 28 May, 2024
 
 # Organizations/Affiliations
 organizations:
@@ -79,7 +79,7 @@ user_groups:
  - **Submission deadline:** 29 January 2024  AoE <br />
  - **Notification of Acceptance:** 26 February 2024 <br />
  - **Camera-ready:** 1 March 2024 <br />
- - **Workshop**: 27 May 2024 <br/>
+ - **Workshop**: 28 May 2024 <br/>
 
 ### Paper Submission
 Papers are to be submitted via EasyChair in the following link:<br /> 

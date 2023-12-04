@@ -17,7 +17,9 @@ author = "admin"
  - [Sebastiano Panichella](https://spanichella.github.io/), Zurich University of Applied Sciences, Switzerland (Co-Chair)
 
 ## Program Committee
+ - Jon Ayerdi, University of Mondragon, Spain
  - [Joao F. Ferreira](https://joaoff.com/), University of Lisbon, Portugal
+ - [Gordon Fraser](https://www.fim.uni-passau.de/lehrstuhl-fuer-software-engineering-ii/), University of Passau, Germany
  - [Alberto Martin-Lopez](https://personal.us.es/amarlop/), Università della Svizzera Italiana, Switzerland
  - [Nuno Pombo](https://www.di.ubi.pt/~ngpombo/), Universidade da Beira Interior, Portugal
  - [I.S.W.B. (Wishnu) Prasetya](https://www.uu.nl/staff/SWBPrasetya), Utrecht University, Netherlands

@@ -14,5 +14,5 @@ author = "admin"
  - **Submission deadline:** 29 January 2024 AoE 
  - **Notification of Acceptance:** 26 February 2024
  - **Camera-ready:** 1 March 2024
- - **Workshop:** 27 May 2024
+ - **Workshop:** 28 May 2024
 

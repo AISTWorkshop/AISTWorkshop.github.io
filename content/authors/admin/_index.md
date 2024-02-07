@@ -78,7 +78,7 @@ user_groups:
 
  - **Submission deadline:** 5 February 2024  AoE <br />
  - **Notification of Acceptance:** 26 February 2024 <br />
- - **Camera-ready:** 1 March 2024 <br />
+ - **Camera-ready:** 8 March 2024 <br />
  - **Workshop**: 28 May 2024 <br/>
 
 ### Paper Submission

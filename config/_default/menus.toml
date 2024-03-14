@@ -13,35 +13,35 @@
   url = "#description"
   weight = 20
 
+#[[main]]
+#  name = "Call for Papers"
+#  url = "#cfp"
+#  weight = 30
+
 [[main]]
-  name = "Call for Papers"
-  url = "#cfp"
+  name = "Program"
+  url = "#program"
   weight = 30
 
-#[[main]]
-#  name = "Program"
-#  url = "#program"
-#  weight = 40
-
-#[[main]]
-#  name = "Keynote"
-#  url = "#keynote"
-#  weight = 50
+[[main]]
+  name = "Keynote"
+  url = "#keynote"
+  weight = 40
 
 [[main]]
   name = "Important Dates"
   url = "#dates"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Organization"
   url = "#committee"
-  weight = 70
+  weight = 60
 
 [[main]]
   name = "Previous Editions"
   url = "#previous"
-  weight = 90
+  weight = 70
 
 #[[main]]
 #  name = "Posts"

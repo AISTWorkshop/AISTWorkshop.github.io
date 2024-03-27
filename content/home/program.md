@@ -23,8 +23,8 @@ author = "admin"
     - 11:45 - 12:07: Gaadha Sudheerbabu, Tanwir Ahmad, Dragos Truscan, Juri Vain and Ivan Porres. *Iterative Optimization of Hyperparameter-based Metamorphic Transformations*
     - 12:07 - 12:30: Hajra Naeem and Manar Alalfi. *Machine Learning for Cross-Vulnerability Prediction in Smart Contracts*
 - 14:00 - 15:30: **Tutorials** 
-    - 14:00 - 14:45: Mitchell Olsthoorn and Annibale Panichella. *TBA* 
-    - 14:45 - 15:30: Addison Crump and Thorsten Holz. *TBA*
+    - 14:00 - 14:45: Mitchell Olsthoorn and Annibale Panichella. Tutorial: A Hands-on Tutorial for Automatic Test Case Generation and Fuzzing for JavaScript 
+    - 14:45 - 15:30: Addison Crump and Thorsten Holz. Tutorial: SoKotHban - Competitive Adversarial Testing of Sokoban Solvers
 - 16:00 - 17:30: **Panel Discussion/Closing**
     - 16:00 - 17:15: Panel Discussion. *TBA*
     - 17:15 - 17:30: Workshop Closing
